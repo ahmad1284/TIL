@@ -1,7 +1,10 @@
 # TIL
 
-Today I learned
+> This was inspired by [Monica Powell](https://monica.dev) after reading [this article](https://github.com/readme/guides/private-documentation)
 
-1. How to connect bluetooth headsets using terminal ft Bugswriter
-2. How to be silent and talk less. It all starts with controlling your impulse and consciously take a pause before you speak.
-3. Take your unproductive hours before sleep and make them your productive morning hours. ft Laura Vanderkam
+# Today I learned
+
+1. How to connect bluetooth headsets using terminal ft [Bugswriter](https://youtu.be/Jhzqm8JKekk?si=uEIsigaQgovz4MHz)
+1. How to be silent and talk less. It all starts with controlling your impulse and consciously take a pause before you speak.
+1. Take your unproductive hours before sleep and make them your productive morning hours. ft Laura Vanderkam
+
