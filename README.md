@@ -9,4 +9,4 @@
 1. Take your unproductive hours before sleep and make them your productive morning hours. ft Laura Vanderkam
 1. How to connect to termux via USB - [link](https://glow.li/posts/access-termux-via-usb/)
 1. How to install a linux distro on an android device via termux ft Chatgpt
-1. How to create a timetable using FET software.
+1. How to create a timetable using [FET](https://lalescu.ro/liviu/fet/) software.
