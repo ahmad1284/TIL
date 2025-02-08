@@ -11,3 +11,4 @@
 1. How to install a linux distro on an android device via termux ft Chatgpt
 1. How to create a timetable using [FET](https://lalescu.ro/liviu/fet/) software.
 1. How to work with opengraph images. (this was super fun)
+1. How to make a book ft Rachel Andrews plus PrinceXML (this was a long time quest finally complete). Sounds about the right time to open that publishing business :)
